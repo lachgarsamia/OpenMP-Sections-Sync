@@ -313,7 +313,8 @@ export OMP_NUM_THREADS=4
 
 ## License
 
-This project is for educational purposes as part of the HPC course at UM6P.
+This project is for educational purposes as part of the HPC course at UM6P under supervision of Prof.Kissami Imad
+.
 
 ---
 
